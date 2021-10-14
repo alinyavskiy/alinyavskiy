@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinyavskiy
 - 👀 I’m interested in iOS dev
-- 🌱 I’m currently learning iOS,
+- 🌱 I’m currently learning iOS
 
 <!---
 alinyavskiy/alinyavskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
